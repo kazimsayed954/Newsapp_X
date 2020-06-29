@@ -1,7 +1,6 @@
 # newsapp
 
-A new Flutter application.
-
+Newsapp_X uses a news api from https://newsapi.org
 ## Getting Started
 
 This project is a starting point for a Flutter application.
